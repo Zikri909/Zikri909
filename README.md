@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zikri909
-- 👀 I’m interested in AI/NL/DevOps/Cloud/Networking/Cyber security
+- 👀 I’m interested in AI/ML/DevOps/Cloud/Networking/Cyber security
 - 🌱 I’m currently learning AWS, GCP, Microsoft Azure, Docker, Kubernetes, Django, PostgreSQL, TensorFlow, Scikit-learn
 - 💞️ I’m looking to collaborate on awesome and interesting projects
 - 📫 How to reach me zikrihayat456@gmail.com
